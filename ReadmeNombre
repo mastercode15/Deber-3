@@ -1,0 +1,19 @@
+El archivo "Nombre" que esta en la carpeta Deber-3
+imprime el nombre "SEBASTIAN"
+Para esto se importa la libreria turtle
+Las principales funciones graficas de esta libreria son las siguientes:
+
+- forward(distance): Avanzar una determinada cantidad de píxeles.
+- backward(distance): Retroceder una determinada cantidad de píxeles.
+- left(angle): Girar hacia la izquierda un determinado ángulo.
+- right(angle): Girar hacia la derecha un determinado ángulo.
+
+Para poder desplazarse de un punto a otro sin dejar rastro se utiliza
+Para ello utilizó las siguientes funciones:
+
+pendown(): Subir el lápiz para no mostrar el rastro.
+penup(): Bajar el lápiz para mostrar el rastro.
+
+Entre el pendown() y el penup() se escriben las funciones basicas para desplazares
+con la diferencia de que estas no dejaran ningun rastro
+  
